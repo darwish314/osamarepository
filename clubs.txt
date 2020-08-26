@@ -5,3 +5,7 @@ liverpool
 arsenal
 harambee
 gor mahia
+
+kenya
+uganda
+nigeria
